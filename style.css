@@ -1,0 +1,10 @@
+#container {
+    position: relative;
+    background-color: black;
+}
+
+canvas {
+    display: flex;
+    margin: auto;
+    background-color: blanchedalmond;
+}
